@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"miconsignacion.paymentinfos"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"miconsignacion.paymentinfos","background":true}],"uuid":"bc234caf51434b2dbc5b54a2a243a371"}

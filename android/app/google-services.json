@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460197572192",
+    "firebase_url": "https://miconsignacion.firebaseio.com",
+    "project_id": "miconsignacion",
+    "storage_bucket": "miconsignacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460197572192:android:cb671d994ca04adf",
+        "android_client_info": {
+          "package_name": "com.miconsignacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460197572192-phvplukhjjlq14j6eol71de6c6n5odbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdMTKYCtVsgOtFPAwuEDzxngTWNdeh9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460197572192-phvplukhjjlq14j6eol71de6c6n5odbj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460197572192-a86iiasoekuf0bg58h8omj76rnknhpp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thinksolutionz.miconsignacion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
